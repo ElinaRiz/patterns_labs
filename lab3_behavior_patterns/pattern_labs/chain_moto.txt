@@ -1,0 +1,1 @@
+Вид_транспорта=transport.Moto Марка=Yamaha Размер=2: Yamaha1 2000.0, Yamaha2 2001.0, 
